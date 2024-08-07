@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: package
+Version: 1.0.0
+Summary: A package to describe some shapes
+Author: Martin Kanounnikoff
+Author-email: Kanounnikoff Martin <mkanounnikoff@gmail.com>
+Maintainer-email: Kanounnikoff Martin <mkanounnikoff@gmail.com>
+Keywords: shape,circle,triangle,rectangle,square
+Classifier: Development Status :: 4 - Beta
+Classifier: Programming Language :: Python
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+
+
+# Shapes
+
+This project allow the user to get basics informations about basics shapes with minimal information at start.
+
+## Authors
+
+- Martin Kanounnikoff
